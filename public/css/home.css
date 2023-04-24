@@ -1,0 +1,48 @@
+/* home */
+.gallery {
+	max-width: 960;
+  margin-bottom: 1.45em;
+}
+
+.articles-menu {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 4rem;
+  padding: 0 4rem;
+  margin: 2rem 0;
+}
+
+@media (max-width: 400px) {
+  .articles-menu {    
+    display: block;
+    padding: 0;
+    }
+  }
+  
+.articles-menu li {
+  width: 300px;
+  height: auto;
+}
+
+
+
+.articles-menu a {
+  text-decoration: none;
+  color: black;
+}
+
+.articles-menu h3 {
+  font-weight: 600;
+  margin-bottom: 0.22rem;
+}
+.articles-menu p {
+  font-size: 0.9em;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 2rem;
+ }
+/* date */
+.gallery .h4 {
+  margin-bottom: 0;
+ }
+

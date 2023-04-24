@@ -1,0 +1,36 @@
+/* gallery */
+
+.articles-menu {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 4rem;
+  padding: 0 4rem;
+  margin: 2rem 0;
+  
+  @media (max-width: 400px) {
+      display: block;
+      padding: 0;
+    }
+}
+/*  card (item) */
+
+a.linked-item {
+  text-decoration: none;
+  color: black;
+}
+
+h3.title {
+  font-weight: 600;
+  margin-bottom: 0.22rem;
+}
+
+p.copy {
+  font-size: 0.9em;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 2rem;
+}
+
+h4.date {
+  margin-bottom: 0;
+}
