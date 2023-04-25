@@ -1,4 +1,8 @@
-/* gallery */
+/* home */
+.gallery {
+	max-width: 960;
+  margin-bottom: 1.45em;
+}
 
 .articles-menu {
   display: grid;
@@ -6,31 +10,40 @@
   grid-gap: 4rem;
   padding: 0 4rem;
   margin: 2rem 0;
-  
-  @media (max-width: 400px) {
-      display: block;
-      padding: 0;
-    }
 }
-/*  card (item) */
 
-a.linked-item {
+@media (max-width: 400px) {
+  .articles-menu {    
+    display: block;
+    padding: 0;
+    }
+  }
+  
+.articles-menu li {
+  width: 300px;
+  height: auto;
+}
+
+
+
+.articles-menu a {
   text-decoration: none;
   color: black;
 }
 
-h3.title {
+.articles-menu h3 {
   font-weight: 600;
   margin-bottom: 0.22rem;
 }
-
-p.copy {
-  font-size: 0.9em;
+.articles-menu p {
+  font-size: 0.82rem;
   font-weight: 400;
   line-height: normal;
   margin-bottom: 2rem;
-}
+ }
+/* date */
+.articles-menu h4 {
+  margin-bottom: 0.2em;
+  font-size: 1.1em;
+ }
 
-h4.date {
-  margin-bottom: 0;
-}

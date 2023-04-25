@@ -13,10 +13,11 @@
     <meta property="og:url" content="{{ metadata.url }}{{ page.url }}" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{{ title }}" />
+    <meta property="og:image" content="{{ baseURL }}{{ img_path }}" />
     <meta prperty="og:description" content="{{ description or metadata.description }}" />
     <meta name="twitter:title" content="{{ title or metadata.title }}">
     <meta name="twitter:description" content="{{ description or metadata.description }}">
-    <meta name="twitter:image" content="{{ baseURL }}/images/cover.png">
+    <meta name="twitter:image" content="{{ baseURL }}{{ img_path }}">
     <meta name="twitter:card" content="summary">
     <meta property="og:site_name" content="Cover">
     <meta name="twitter:image:alt" content="logo">
@@ -66,7 +67,7 @@
       <a href="/" class="home-link" alt={{ metadata.title }}>
       COVER<footer></a>
          <p>
-           © 2023
+           © {% year %}
           <a href="http://jeffreycypherswright.com"> Jeffrey Cyphers Wright</a>
          </p>
       </footer>
