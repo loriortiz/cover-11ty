@@ -191,6 +191,7 @@ li > p {
 a {
   color: tomato;
   background-color: transparent;
+  text-decoration: none;
 -webkit-text-decoration-skip: objects;
 }
 a:active,
@@ -198,7 +199,10 @@ a:hover {
   outline-width: 0;
 }
 small {
-  font-size: 80%;
+  font-size: 0.80em;
+  line-height: 0.08em;
+  font-family: var(--body-font-family);
+  font-weight: normal;
 }
 img {
   border-style: none;
@@ -399,16 +403,20 @@ blockquote {
   margin-left: 1.45rem;
   margin-right: 1.45rem;
   margin-top: 0;
-  padding-bottom: 0;
+  padding-bottom: 5px;
   padding-left: 0.45rem;
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
   font-family: var(--body-font-family);
+  font-style: italic;
   border-width: 2px;
-  background-color: #fff0ee; 
-  text-shadow: 0.3px 0 0;
-  box-shadow: -1px 0 .2px hsla(0, 0%, 3%, 0.9)
+  background-color:#fff8f6; 
+  text-shadow: 0.3px 0 0 #044bc9;
+  box-shadow: -0.1px -0.1px 0.1px 0.12px darkred;
+  letter-spacing: 0.022rem;
+  color: black;
+  font-size: 1.03rem;
 }
 
 header.siteheader {
