@@ -17,8 +17,8 @@ short_desc: On a 16th century serial killer
   
   {% image "./bookcover.jpg", "book cover" %}
 
-<div class=pic-caption><em>The Blood Countess</em> 1995<br><a href="https://www.codrescu.com/the-blood-countess-a-novel">
-Andrei Codrescu</a><br>Simon & Schuster</div><div>
+<div class="pic-caption"><p><em>The Blood Countess</em> 1995<br><a href="https://www.codrescu.com/the-blood-countess-a-novel">
+Andrei Codrescu</a><br>Simon & Schuster</p></div><div>
 
 <h2 class="article-title"><em>Countess and Serial Killer</em></h2>
 
@@ -66,7 +66,7 @@ Andrei Codrescu</a><br>Simon & Schuster</div><div>
   
   {% image "./andrei-head.jpg", "head of Adrei" %}
   
-<div class=pic-caption><em>Andrei Codrescu</em> 1995</div></div>
+<div class=pic-caption><p><em>Andrei Codrescu</em> 1995</p></div></div>
 
 
 <p><span class="intro">JCW: But in a way she was the pinna­cle of an entire culture. Ruling class, educated, beautiful.<br />AC</span>: Yeah, and she was cruel, unsparing, intelligent. It's a great picture of the modern age. The scholars call the 16th century the pre-modern age. Ir's actu­ally the century of Shakespeare and Queen Elizabeth, Kepler and King Mathias.</p>

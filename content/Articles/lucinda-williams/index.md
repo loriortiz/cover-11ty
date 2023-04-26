@@ -17,10 +17,10 @@ short_desc: Before her 15 Grammies
     
     {% image "./lucinda.jpg", "album cover" %}
 
-    <div class=pic-caption><em>Getting Her Way</em><br>Photo: Anna Lee Keerer</div>
+  <div class="pic-caption"><p><em>Getting Her Way</em><br>Photo: Anna Lee Keerer</p></div>
   </div>
 
-  <h2 class="article-title"><em>Lucinda Williams</em></h2>
+  <h2 class="article-title">Lucinda Williams</h2>
 
   By **Cathy Lee Crane** "Getting Her Way" in *COVER Magazine*, October, 1989
 

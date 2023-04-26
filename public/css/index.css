@@ -114,7 +114,10 @@ strong {
   font-weight: bold;
 }
 
-
+address, blockquote {
+  font-size: 1.03rem;
+  font-style: italic;
+}
 /*d fn {
   font-style: italic;
 } */
@@ -239,6 +242,10 @@ span.question {
   font-weight: 400;
   font-size: 1.2em;
   line-height: 1.2;
+}
+
+.indent {
+  text-indent: 10ch;
 }
 
 
@@ -416,7 +423,6 @@ blockquote {
   box-shadow: -0.1px -0.1px 0.1px 0.12px darkred;
   letter-spacing: 0.022rem;
   color: black;
-  font-size: 1.03rem;
 }
 
 header.siteheader {
@@ -641,13 +647,26 @@ article .pic-wrap img {
 p:has(+ div.pic-caption) {
   margin-bottom:0;
 }
-div.pic-caption {
+
+div.pic-caption p {
   font-size: 0.80em;
   line-height: 1.2;
   font-family: 'Merriweather', Georgia, serif;
   font-weight: normal;
   margin-bottom: 1.45em;
 }
+
+div.pic-caption p b,
+div.pic-caption p em {
+  letter-spacing: 0.02rem;
+  font-size: 0.80rem;
+}
+
+/* article>p em,
+article>p b {
+  font: 102.5%/1.65em;
+  letter-spacing: 0.02em;
+} */
 
 span.intro {
   font-family: "futura-pt-condensed", sans-serif;
@@ -656,6 +675,18 @@ span.intro {
   font-size: 1.2em;
   font-style: bold;
   line-height: 1.2;
+}
+
+.poem {
+  max-width: 300px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 0.2;
+  margin-right: 75px;
+
+  @media screen and (max-width:425px) {
+    margin-right: 0;
+  }
 }
 
 footer {
