@@ -38,10 +38,10 @@ numberOfLatestPostsToShow: 8
     {% for articles in collections.articles %}
       <li>
         <a href= "{{ articles.data.url }}"> 
-          <div style="position:relative;overflow:hidden">
+          {# <div style="position:relative;overflow:hidden"> #}
          {#  {% image {{ articles.data.img_path }}, {{ articles.data.alt }} %} #}
             <img src={{ articles.data.img_path }} alt={{ articles.data.alt }}>
-          </div>
+          {# </div> #}
           <h3>{{ articles.data.title}}</h3>
           <h4>{{ articles.data.issue }}</h4>
           <p>{{ articles.data.short_desc }}</p>
