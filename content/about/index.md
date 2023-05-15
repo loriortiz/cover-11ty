@@ -36,7 +36,7 @@ Thanks to Michael McKenzie, WDRE radio plugged the Ocasek/ Wright lineup and dub
   
   {% image "./ocasek.jpg", "ocasek performing" %}
   
-<div class=pic-caption>A poster from Tunnel nightclub, 1995. Photo: Seth Wright</div>
+  <div class=pic-caption><p>A poster from Tunnel nightclub, 1995.<br>Photo: Seth Wright</p></div>
 </div>
 
 Shortly after starting _Cover_ (which was originally called Say! for the first four issues), Wright tapped fellow writer and publisher Michele Corielle to become Coeditor. Corielle was hosting readings at galleries and running Tone Magazine, a hip zine also covering art, music, and poetry (including Wright and Bernadette Mayer). And she was day manager of the Ritz nightclub, which brought instant access to liquor advertisers.
