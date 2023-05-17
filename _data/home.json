@@ -75,5 +75,12 @@
     "issue": "Summer 1995",
     "summary": "On runway, record, and film",
     "image": "../images/gallery/milla.jpg"
+  },
+  {
+    "title": "Lou Reed Portrait",
+    "slug": "lou-reed",
+    "issue": "1998",
+    "summary": "Timothy Greenfield-Sanders Diary",
+    "image": "../images/gallery/reed-cover.jpg"
   }]
 }
