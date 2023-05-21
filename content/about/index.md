@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: About COVER Magazine
-img_path: https://covermagnyc.com/about/ocasek.jpg
+img_path: https://covermagnyc.com/images/jcw_ocasek.jpg
 img_alt: Ocasek poster
 description: "This page has information about the New York City based Cover Magazine published by Jeffrey Cyphers Wright for 13 years until 2000."
 eleventyNavigation:
