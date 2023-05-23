@@ -22,7 +22,7 @@ short_desc: Deconstructing the Lou Reed image
 
   <h2 class="article-title">Reed all about it</h2>
 
-  By **Adam McGovern**. Photos: **Gram Wood**. In *COVER Magazine*, February, 1994
+  By **Adam McGovern**. Cover Photo: Timothy Greenfield-Sanders. Article photos: **Gram Wood**. In *COVER Magazine*, February, 1994
 
   Lou Reed is not a man who shrinks from expectations. The recent regrouping of his band the Velvet Underground competed with that influential outfit's unsurpassable legend and won, in no small part because its very gambling of youthfully rebellious reputation proved an adventurousness and integrity of unprecedented longstanding. No sooner was the landmark audio document (Sire/Warners' *Live MCMXCIII*) in the stores than Lou was challenging the anticipations it raised by returning to high solo profile in Wim Wenders' _Faraway, So Close_ film and soundtrack, performing a new song as good as any he has recorded. And, neither intimidated by nor content with the professional rarity and thematic ambitions of the novels-for-tape-deck that comprise his last three critically acclaimed studio albums, he is preparing his first novel for the bookshelves. Though famously reluctant to meet the press, he granted a rare insight into what it all means to him.
 
@@ -60,7 +60,7 @@ short_desc: Deconstructing the Lou Reed image
   _You spoke of deconstructing the Lou Reed image. I'm also interested in what you were perhaps aiming to deconstruct before that time. It seems. that from decade to decade there was an interest in counterpoising your historical moment. Your writing seemed to contrast, say in the '60s, a giddy utopianism with a much more uncompromising realism._
 
   Oh, purely the results of living in New York. I mean, most people living in New York and seeing what we see here, we're a little resistant to those other kinds of things, for the simple reason that all you have to do is walk outside and it becomes obvious that this is not a very practical or sophisticated approach to what's going on.
-  Up to and including what's going on this minute. Think of the Whitman and Florio election in New Jersey: Like, did they really pay off black ministers? It's never really been answered. Should there be another election? Isn't it true that in fact both parties do that all the time anyway? And is that why they're not looking into it? Does anyone really believe Rollins when he says he said that just to irritate Carville?
+  Up to and including what's going on this minute. Think of the Whitman and Florio election in New Jersey: Like, did they really pay off black ministers? It's never really been answered. Should there be another election? Isn't it true that in fact both parties do that all the time anyway? And is that why they're not looking into it? Does anyone really believe Rollins when he says he said that just to irritate [James] Carville?
 
   _If it was a lie, it was the most elaborately constructed and rapidly extemporized one I’ve ever heard._
 
@@ -68,7 +68,7 @@ short_desc: Deconstructing the Lou Reed image
 
   _I think they despised and hated him, much like they despised and hated you, for the truth._
 
-  But I think that he dealt with the reality which all the other states have to deal with, and when she says she's gonna lower taxes thirty percent, how is she gonna do that, and keep the schools going and this service going and that service going? She's saying what people would like to hear. …Anyway.
+  But I think that he dealt with the reality which all the other states have to deal with, and when she says she's gonna lower taxes thirty percent, how is she gonna do that, and keep the schools going and this service going and that service going? She's saying what people would like to hear. … Anyway.
 
   _Anyway, on the other hand, your dissent to utopianism has cycled around in the current era to a dissent of virtue as it were; during the socially callous and politically superficial '80s you turned to political protest and homages to family, and in the demoralized or denial-prone '90s you're turning to calls to awareness and invocations of renewal._
   
@@ -97,11 +97,11 @@ short_desc: Deconstructing the Lou Reed image
 
   _What do you feel that songs like that communicate on the level of songs, when they're being heard as music as opposed to read as abstracted lyrics?_
   
-  Fun rock
+  Fun rock.
 
   _And what does that communicate?_
 
-  I always think of it. essentially I think of it as about freedom.
+  I always think of it. Essentially I think of it as about freedom.
 
   _There are certainly particular songs of yours which meld the two, and maybe even consciously try to rehabilitate social awareness as something which is ultimately "fun" because if you're in prison, or dead, you can't have that great a time. Songs like "Voices of Freedom.”_
 
@@ -177,7 +177,9 @@ short_desc: Deconstructing the Lou Reed image
 
   _Was it meant to raise expectations?_
 
-  Well if it had been calculated there'd be an American tour going on as we speak. My raison d'etre was fun and when there's no fun there's no reason to do it. The fun vanished and so did I. Forever. It'll never, ever, ever happen again - guaranteed. Let's just say, interpersonal relationships not being what they should be. Keep in mind the Velvet Underground was never popular in the first place, so what great money is there to be made out of it? It's hilarious to be one of the most non-commercial groups in history and then you think, "Wow, it might. be fun to play in public," and get accused of going commercial. I don't mind making money by the way, I have nothing against making money; just, it wasn't the reason. I can't be bought.
+  Well if it had been calculated there'd be an American tour going on as we speak. My raison d'etre was fun and when there's no fun there's no reason to do it. The fun vanished and so did I. Forever. It'll never, ever, ever happen again - guaranteed. Let's just say, interpersonal relationships not being what they should be. Keep in mind the Velvet Underground was never popular in the first place, so what great money is there to be made out of it? It's hilarious to be one of the most non-commercial groups in history and then you think, "Wow, it might be fun to play in public," and get accused of going commercial. I don't mind making money by the way, I have nothing against making money; just, it wasn't the reason. I can't be bought.
+
+  <p style="writing-mode: vertical-rl;text-orientation:sideways;font-size:1.2em;margin: 0 auto 1em">§</p>
 
   This brought the career and the conversation full circle. If you're looking for idols you not only will be disappointed but should be, and I found Lou Reed to be someone who has a problem recognizing and disowning some of his mistakes, but no trouble not repeating them and seldom adding more — and an ability unique in his field for honoring and surpassing his successes. 
   
