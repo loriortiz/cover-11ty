@@ -9,38 +9,20 @@ img_path: /images/gallery/allen.jpg
 alt: Ginsberg reading
 short_desc: Portraits from the COVER archive
 ---
-<article>
-  <h1>Luminaries of Literature</h1>
-
+<article style="text-align:center">
+  <h1>Portraits from the Archive</h1>
+  <h2 class="article-title">Luminaries of Lit</h2>
   <div class="pic-wrap">
     
-    {% image "./amiri_baraka.jpg", "portrait" %}
+    {% image "./borroughs.jpg", "portrait" %}
 
-  <div class="pic-caption"><p><b>Amiri Baraka</b> at the knitting Factory<br>Photo: Luigi Cazzaniga</p></div>
-  </div>
-  <div class="pic-wrap">
-    
-    {% image "./bina_sharif.jpg", "portrait" %}
-
-  <div class="pic-caption"><p><b>Bina Sharif</b></p></div>
-  </div>
-  <div class="pic-wrap">
-    
-    {% image "./eileen_myles.jpg", "portrait" %}
-
-  <div class="pic-caption"><p><b>Eileen Myles</b></p></div>
+  <div class="pic-caption"><p><b>William Borroughs</b> with cane</p></div>
   </div>
   <div class="pic-wrap">
     
     {% image "./ginsberg.jpg", "portrait" %}
 
-  <div class="pic-caption"><p><b>Allen GInsberg</b></p></div>
-  </div>
-  <div class="pic-wrap">
-    
-    {% image "./rene_ricard.jpg", "portrait" %}
-
-  <div class="pic-caption"><p><b>Renee Ricard</b> at the table<br>Photo: Allen Ginsberg</p></div>
+  <div class="pic-caption"><p><b>Allen Ginsberg</b></p></div>
   </div>
   <div class="pic-wrap">
     
@@ -50,9 +32,28 @@ short_desc: Portraits from the COVER archive
   </div>
   <div class="pic-wrap">
     
-    {% image "./borroughs.jpg", "portrait" %}
+    {% image "./rene_ricard.jpg", "portrait" %}
 
-  <div class="pic-caption"><p><b>William Borroughs</b> with cane</p></div>
+  <div class="pic-caption"><p><b>Renee Ricard</b> at the table<br>Photo: Allen Ginsberg</p></div>
+  </div>
+  <div class="pic-wrap">
+    
+    {% image "./amiri_baraka.jpg", "portrait" %}
+
+  <div class="pic-caption"><p><b>Amiri Baraka</b> at the knitting Factory<br>Photo: Luigi Cazzaniga</p></div>
+  </div>
+
+  <div class="pic-wrap">
+    
+    {% image "./eileen_myles.jpg", "portrait" %}
+
+  <div class="pic-caption"><p><b>Eileen Myles</b></p></div>
+  </div>
+  <div class="pic-wrap">
+    
+    {% image "./bina_sharif.jpg", "portrait" %}
+
+  <div class="pic-caption"><p><b>Bina Sharif</b></p></div>
   </div>
   <div class="pic-wrap">
     
