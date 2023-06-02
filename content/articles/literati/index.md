@@ -47,7 +47,7 @@ short_desc: Portraits from the COVER archive
     
     {% image "./eileen_myles.jpg", "portrait" %}
 
-  <div class="pic-caption"><p><b>Eileen Myles</b></p></div>
+  <div class="pic-caption"><p><b>Eileen Myles.</b> Photo: Bob Berg.</p></div>
   </div>
   <div class="pic-wrap">
     
@@ -60,6 +60,18 @@ short_desc: Portraits from the COVER archive
     {% image "./emilio.jpg", "portrait" %}
 
   <div class="pic-caption"><p><b>Emilio Cubierto</b><br>Photo: Luigi Cazzaniga</p></div>
+  </div>
+  <div class="pic-wrap">
+    
+    {% image "./jcw-gmalanga.jpg", "portrait" %}
+
+  <div class="pic-caption"><p><b>Jeffrey Cyphers Wright</b> and <b>Gerard Malanga</b> ca. 1992, at El Teddy's Cover Party<br>Photo: Bob Berg</p></div>
+  </div>
+  <div class="pic-wrap">
+    
+    {% image "./jcw-bberg.jpg", "portrait" %}
+
+  <div class="pic-caption"><p><b>Jeffrey Cyphers Wright</b> and <b>Bob Berg</b> at Marion's, ca.1995</p></div>
   </div>
 
 </article>
