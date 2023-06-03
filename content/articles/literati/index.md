@@ -7,7 +7,7 @@ tags: [articles, posts]
 url: /articles/literati/
 img_path: /images/gallery/allen.jpg
 alt: Ginsberg reading
-short_desc: Portraits and writers we covered
+short_desc: Poets and writers we covered
 ---
 <article style="text-align:center">
   <h1>Portraits from the Archive</h1>
