@@ -17,7 +17,14 @@ eleventyNavigation:
 
 As publisher and editor, Wright initially recruited many of his friends and associates in the East Village. Many poets helped the magazine. Poet and art critic John Yau offered crucial early support. Greg Masters became Photography Editor. Billy McKay, an editor of the <em>Poetry Project Newsletter</em> became Dance Editor. Bina Sharif and Kevin Martin provided film and drama reviews and interviews.
 
-Other critics went on to become widely known including Robert C. Morgan, Saul Ostrow, Judd Tully, and David Ulin (who now reviews books for the _LA Times_). Phyllis Braff of the _New York Times_ was a regular reviewer.
+Other _Cover_ critics went on to become widely known including Robert C. Morgan, Saul Ostrow, Judd Tully, and David Ulin (who now reviews books for the _LA Times_). Phyllis Braff of the _New York Times_ was a regular reviewer.
+
+<div class="pic-wrap">
+  
+  {% image "./jcw-bberg.jpg", "portrait" %}
+
+<div class="pic-caption"><p><b>Jeffrey Cyphers Wright</b> and <em>Cover</em> photographer <b>Bob Berg</b> at Marion's, ca.1995</p></div>
+</div>
 
 Over the almost 15 year of publication, _Cover_ ran hundreds of reviews and features on artists, musicians, writers, dancers, and performance artists. 
 

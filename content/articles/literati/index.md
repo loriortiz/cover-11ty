@@ -1,5 +1,5 @@
 ---
-title: Literati
+title: Portrait Album
 layout: layouts/album.njk
 description: Portraits of poets and playwrights from the COVER archive including Eileen Miles, Allen Ginsberg, Rene Ricard, Alice Notley, and Amiri Baraka.
 date: 2023-06-01
@@ -7,7 +7,7 @@ tags: [articles, posts]
 url: /articles/literati/
 img_path: /images/gallery/allen.jpg
 alt: Ginsberg reading
-short_desc: Portraits from the COVER archive
+short_desc: Portraits and writers we covered
 ---
 <article style="text-align:center">
   <h1>Portraits from the Archive</h1>
@@ -65,13 +65,7 @@ short_desc: Portraits from the COVER archive
     
     {% image "./jcw-gmalanga.jpg", "portrait" %}
 
-  <div class="pic-caption"><p><b>Jeffrey Cyphers Wright</b> and <b>Gerard Malanga</b> ca. 1992, at El Teddy's Cover Party<br>Photo: Bob Berg</p></div>
-  </div>
-  <div class="pic-wrap">
-    
-    {% image "./jcw-bberg.jpg", "portrait" %}
-
-  <div class="pic-caption"><p><b>Jeffrey Cyphers Wright</b> and <b>Bob Berg</b> at Marion's, ca.1995</p></div>
+  <div class="pic-caption"><p><b>Jeffrey Cyphers Wright</b> and <b>Gerard Malanga</b> ca. 1992, at El Teddy's Cover Party<br>Photographed by Malanga.</p></div>
   </div>
 
 </article>
