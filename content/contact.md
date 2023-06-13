@@ -11,4 +11,6 @@ eleventyNavigation:
     <address>Cover Magazine<br />PO Box 1215<br />Cooper Station, NY 10129.</address>
     <p>covermag (@) yahoo.com</p>
 
+  <p>If you have a favorite <em>COVER</em> article you would like us to re<em>COVER</em>, please contact us!
+
 </article>
