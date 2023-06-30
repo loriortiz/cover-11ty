@@ -9,6 +9,7 @@ const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
+/* const fg = require('fast-glob'); */
 
 module.exports = function(eleventyConfig) {
 	// Copy the contents of the `public` folder to the output folder
@@ -80,6 +81,13 @@ module.exports = function(eleventyConfig) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
 
+  /* eleventyConfig.addCollection('covers9596', function(collection) {
+    return covers9596Images;
+  }); */
+  /* eleventyConfig.addCollection("glossyCovers", function(collection) {
+    return collection.getFilteredByGlob("content/articles/glossy-covers/*.jpg");
+}); */
+
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {
@@ -93,6 +101,7 @@ module.exports = function(eleventyConfig) {
 			slugify: eleventyConfig.getFilter("slugify")
 		});
 	});
+
 
 	// Features to make your build faster (when you need them)
 

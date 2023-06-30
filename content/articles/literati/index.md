@@ -53,7 +53,7 @@ short_desc: Poets and writers we covered
     
     {% image "./bina_sharif.jpg", "portrait" %}
 
-  <div class="pic-caption"><p><b>Bina Sharif</b></p></div>
+  <div class="pic-caption"><p><b>Bina Sharif</b>. Photo: Dona Ann McAdams</p></div>
   </div>
   <div class="pic-wrap">
     

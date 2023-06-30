@@ -8,7 +8,7 @@
 	--color-gray-50: #C0C0C0;
 	--color-gray-90: #333;
 
-	--background-color: #fff;
+	--background-color: #fff9f4;
 
 	--text-color: hsla(0, 0%, 3%, 0.9);
 	--text-color-link: #082840;
@@ -320,7 +320,7 @@ blockquote {
   font-family: var(--body-font-family);
   font-style: italic;
   border-width: 2px;
-  background-color:#fff8f6; 
+  background-color:#fff9f4; 
   text-shadow: 0.3px 0 0 #044bc9;
   box-shadow: -0.1px -0.1px 0.1px 0.12px darkred;
   letter-spacing: 0.022rem;
@@ -328,7 +328,7 @@ blockquote {
 }
 
 header.siteheader {
-  background: #fff7f0; 
+  background: #fff9f4; 
   margin-bottom: 1.45rem;
   position: relative;
   
