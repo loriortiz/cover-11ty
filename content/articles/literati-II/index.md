@@ -28,7 +28,7 @@ short_desc: Culture creators
     
     {% image "./shapiro.jpg", "portrait" %}
 
-  <div class="pic-caption"><p>Poet <b>David Shapiro,</b> photo: Joyce Ravid</p></div>
+  <div class="pic-caption"><p>Poet <b>David Shapiro,</b> photo by Joyce Ravid</p></div>
   </div>
   <div class="pic-wrap">
     
@@ -39,7 +39,6 @@ short_desc: Culture creators
   <div class="pic-wrap">
     
     {% image "./burroughs-hunke87.jpg", "portrait" %}
-
   <div class="pic-caption"><p><b>William Burroughs</b> and <b>Herbert Huncke,</b> 1987</p></div>
   </div>
   <div class="pic-wrap">
