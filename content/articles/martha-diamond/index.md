@@ -7,7 +7,7 @@ tags: [articles, posts]
 url: /articles/martha-diamond/
 issue: May, 1994
 img_path: /images/gallery/martha-d.jpg
-alt: cover
+alt: martha in studio
 short_desc: Talking painting at Robert Miller.
 ---
 <article>
