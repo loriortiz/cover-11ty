@@ -26,7 +26,7 @@ short_desc: Talking painting at Robert Miller.
 
   <h3 class="article-subtitle">Robert Miller Gallery</h3>
 
-Amid a bluster of bravura passages, buildings cluster in urban canyons. Architecture takes on a figurative shadow. Lit windows in the night become bright wraiths, each brushstroke palpable, unique and personalized. Martha Diamond is a painter of great space. She cites churches and cathedrals as the kinds of spaces "that make people feel terrific." In her trademark style, abstract realism is draped over an evocative narrative. A blue shadow turns a tall building into a sentinel. Rows of dwellings become calligraphic. Flourishes and and orchestrated streaks assemble into portentous compositions with seemingly kinetic potential.
+Amid a bluster of bravura passages, buildings cluster in urban canyons. Architecture takes on a figurative shadow. Lit windows in the night become bright wraiths, each brushstroke palpable, unique and personalized. Martha Diamond is a painter of great space. She cites churches and cathedrals as the kinds of spaces "that make people feel terrific." In her trademark style, abstract realism is draped over an evocative narrative. A blue shadow turns a tall building into a sentinel. Rows of dwellings become calligraphic. Flourishes and orchestrated streaks assemble into portentous compositions with seemingly kinetic potential.
 
 <p style="writing-mode: vertical-rl;text-orientation:sideways;font-size:1.2em;margin: 0 auto 1em">§</p>
 
@@ -36,7 +36,7 @@ The first painting I tried to copy was a Chinese painting of a horse. Later I wa
 
 _What about rhythm?_
 
-The new paintings are dimensionally in a ratio of two to one. Numbers affect people. A lot of repetitions makes things look grand—like the way things are disposed has a lot to do with how people will respond to them. I like how things get repeated.
+The new paintings are dimensionally in a ratio of two to one. Numbers effect people. A lot of repetitions makes things look grand—like the way things are disposed has a lot to do with how people will respond to them. I like how things get repeated.
 
 _Who did you like when you were younger?_
 
@@ -48,7 +48,7 @@ To see the color take its place in space and to see the illusion happening while
 
 _How do you chose the colors of the painting?_
 
-I'll pick a color by the image.It's also going a little bit anti-taste. I like a little more energy. Color is very physical and it affects your eyes—it makes you feel—I like the physical sensation of color. I go for more of it.
+I'll pick a color by the image.It's also going a little bit anti-taste. I like a little more energy. Color is very physical and it effects your eyes—it makes you feel—I like the physical sensation of color. I go for more of it.
 
 _Where do you get the idea?_
 
@@ -69,7 +69,7 @@ It gives people a lot of pleasure, like a song. Being human is the complicated p
 
 _Are you an abstract realist?_
 
-You can read paintings. A vocabulary can spill from them - contrast, verticality, dimension, space, rhythm... color. Composition.
+You can read paintings. A vocabulary can spill from them—contrast, verticality, dimension, space, rhythm... color. Composition.
 
 
 
