@@ -11,7 +11,7 @@ alt: martha sitting
 short_desc: Diamond in the Whitney Biennial.
 ---
 <article>
-  <h1>Martha Diamond at the Whitney</h1>
+  <h1>Martha Diamond in the Whitney Biennial</h1>
 
   <div class="pic-wrap">
 
